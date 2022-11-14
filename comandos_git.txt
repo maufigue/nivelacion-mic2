@@ -1,0 +1,19 @@
+aprendedesarrolloweb.com
+
+pwd >> para saber la ruta en donde estas
+rm -rf >> elimina carpetas
+rmdir >> elimina carpetas
+rm >> elimina archivos
+git config --global user.name "nombre usuario"
+git config --global user.email
+git config -l >> ver las configuraciones de git
+git init >> crear repositorio .git
+ls -al >> muestra las carpetas ocultas
+git init -b main >> para llamar a la rama principal main en lugar de master
+git add . >> tomar una aclaracion del archivo al que se le hara un commit
+git commit -m 'Name' >> crear un commit con nombre
+git remote set-url origin git://new.url.here
+ssh-keygen -C mauriciofgaray@hotmail.com >> crear lave SSH
+
+**archivos en rojo >> son archivos que no fueron montados a la foto
+**archivos en verde >> son archivos que fueron montados a la foto
