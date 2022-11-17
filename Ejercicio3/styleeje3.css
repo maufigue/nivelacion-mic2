@@ -1,0 +1,50 @@
+.form {
+    width: 300px;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 0 auto;
+    background: linear-gradient(#bd09b7, #6b4cf5)
+}
+
+.log{
+    color: white;
+}
+
+.email {
+    padding: 7px;
+    width: 100%;
+    color: white;
+}
+
+.pass {
+    padding: 7px;
+    width: 100%;
+    color: white;
+}
+
+.genero {
+    padding: 7px;
+    width: 100%;
+    color: white;
+}
+
+.terms{
+    padding: 7px;
+    color: white;
+}
+
+.ingresar{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+fieldset{
+    border:0
+}
+
+select {
+    width: 100%;
+    background-color: white;
+}
